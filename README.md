@@ -1,8 +1,14 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
 <h1 align="left">Hello World!</h1>
 
 ###
 
-<p align="left">💻  Oi! Eu sou a Nicolly — apaixonada por tecnologia, segurança da informação e tudo que envolve o mundo digital.<br><br>Sou formada como Técnica em Análise e Desenvolvimento de Sistemas e estou na graduação na área de Segurança da Informação, onde meu foco é proteger, analisar e fortalecer ambientes digitais. Gosto de entender não só como os sistemas funcionam, mas também como torná-los mais seguros.<br><br>Aqui no meu GitHub você vai encontrar projetos, estudos e experimentos que mostram minha evolução constante na área de TI — sempre aprendendo, sempre me desafiando e sempre buscando crescer profissionalmente.</p>
+<p align="left">💻  Oi! Eu sou a Nicolly — <br><br>Sou formada como Técnica em Análise e Desenvolvimento de Sistemas e estou na graduação na área de Segurança da Informação, onde meu foco é proteger, analisar e fortalecer ambientes digitais. Gosto de entender não só como os sistemas funcionam, mas também como torná-los mais seguros.<br><br>Aqui no meu GitHub você vai encontrar projetos, estudos e experimentos que mostram minha evolução constante na área de TI — sempre aprendendo, sempre me desafiando e sempre buscando crescer profissionalmente.</p>
 
 ###
 
@@ -37,5 +43,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Nikell/Nikell/output/snake.svg" alt="Snake animation" />
 
 ###
