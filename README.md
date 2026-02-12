@@ -46,6 +46,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nikell/Nikell/output/snake.svg" alt="Snake animation" />
 
-###
